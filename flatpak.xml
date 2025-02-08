@@ -43,6 +43,9 @@
 	<url type="bugtracker">https://github.com/sxyazi/yazi/issues</url>
 
 	<releases>
+		<release version="25.2.7" date="2025-02-07" type="stable">
+			<url type="details">https://github.com/sxyazi/yazi/releases/tag/v25.2.7</url>
+		</release>
 		<release version="0.4.2" date="2024-12-20" type="stable">
 			<url type="details">https://github.com/sxyazi/yazi/releases/tag/v0.4.2</url>
 		</release>
